@@ -1,1 +1,4 @@
-### My Gruvbox color themes for XCode, Terminal and iTerm
+## My dotfiles
+
+- Color theme: `Gruvbox`
+- Font: `Ubuntu Mono Nerd Font`
