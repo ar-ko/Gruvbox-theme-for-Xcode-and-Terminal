@@ -5,23 +5,23 @@
 	<key>DVTConsoleDebuggerInputTextColor</key>
 	<string>0.106479 0.120249 0.135259 1</string>
 	<key>DVTConsoleDebuggerInputTextFont</key>
-	<string>FiraMono-Bold - 13.0</string>
+	<string>JetBrainsMonoNL-Bold - 13.0</string>
 	<key>DVTConsoleDebuggerOutputTextColor</key>
 	<string>0.106479 0.120249 0.135259 1</string>
 	<key>DVTConsoleDebuggerOutputTextFont</key>
-	<string>FiraMono-Regular - 13.0</string>
+	<string>JetBrainsMonoNL-Regular - 13.0</string>
 	<key>DVTConsoleDebuggerPromptTextColor</key>
 	<string>0.122401 0.462456 0.173145 1</string>
 	<key>DVTConsoleDebuggerPromptTextFont</key>
-	<string>FiraMono-Bold - 13.0</string>
+	<string>JetBrainsMonoNL-Bold - 13.0</string>
 	<key>DVTConsoleExectuableInputTextColor</key>
 	<string>0.106479 0.120249 0.135259 1</string>
 	<key>DVTConsoleExectuableInputTextFont</key>
-	<string>FiraMono-Regular - 13.0</string>
+	<string>JetBrainsMonoNL-Regular - 13.0</string>
 	<key>DVTConsoleExectuableOutputTextColor</key>
 	<string>0.106479 0.120249 0.135259 1</string>
 	<key>DVTConsoleExectuableOutputTextFont</key>
-	<string>FiraMono-Bold - 13.0</string>
+	<string>JetBrainsMonoNL-Bold - 13.0</string>
 	<key>DVTConsoleTextBackgroundColor</key>
 	<string>0.955876 0.965291 0.97524 1</string>
 	<key>DVTConsoleTextInsertionPointColor</key>
@@ -35,7 +35,7 @@
 	<key>DVTFontSizeModifier</key>
 	<integer>3</integer>
 	<key>DVTLineSpacing</key>
-	<real>1</real>
+	<real>1.2000000476837158</real>
 	<key>DVTMarkupTextBackgroundColor</key>
 	<string>0.96 0.96 0.96 1</string>
 	<key>DVTMarkupTextBorderColor</key>
@@ -93,11 +93,11 @@
 	<key>DVTSourceTextCurrentLineHighlightColor</key>
 	<string>0.975414 0.980129 0.985126 0</string>
 	<key>DVTSourceTextInsertionPointColor</key>
-	<string>0.052755 0.314798 0.819621 1</string>
+	<string>0.0509804 0.313725 0.819608 1</string>
 	<key>DVTSourceTextInvisiblesColor</key>
 	<string>0.8 0.8 0.8 1</string>
 	<key>DVTSourceTextSelectionColor</key>
-	<string>0.827235 0.890993 0.970019 1</string>
+	<string>0.0509804 0.313725 0.819608 0.2</string>
 	<key>DVTSourceTextSyntaxColors</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
@@ -150,6 +150,16 @@
 		<string>0.106479 0.120249 0.135259 1</string>
 		<key>xcode.syntax.preprocessor</key>
 		<string>0.120025 0.462473 0.173141 1</string>
+		<key>xcode.syntax.regex</key>
+		<string>0.02242 0.130999 0.310456 1</string>
+		<key>xcode.syntax.regex.capturename</key>
+		<string>0.0275474 0.268399 0.722226 1</string>
+		<key>xcode.syntax.regex.charname</key>
+		<string>0.356863 0.156863 0.705882 1</string>
+		<key>xcode.syntax.regex.number</key>
+		<string>0.625674 0.463815 0.0178357 1</string>
+		<key>xcode.syntax.regex.other</key>
+		<string>0.106479 0.120249 0.135259 1</string>
 		<key>xcode.syntax.string</key>
 		<string>0.02242 0.130999 0.310456 1</string>
 		<key>xcode.syntax.url</key>
@@ -158,59 +168,69 @@
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>FiraMono-Regular - 13.0</string>
+		<string>JetBrainsMonoNL-Regular - 13.0</string>
 		<key>xcode.syntax.character</key>
-		<string>FiraMono-Regular - 13.0</string>
+		<string>JetBrainsMonoNL-Regular - 13.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>FiraMono-Regular - 13.0</string>
+		<string>JetBrainsMonoNL-Regular - 13.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>FiraMono-Regular - 13.0</string>
+		<string>JetBrainsMonoNL-Regular - 13.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>FiraMono-Regular - 13.0</string>
+		<string>JetBrainsMonoNL-Bold - 13.0</string>
 		<key>xcode.syntax.declaration.other</key>
-		<string>FiraMono-Regular - 13.0</string>
+		<string>JetBrainsMonoNL-Regular - 13.0</string>
 		<key>xcode.syntax.declaration.type</key>
-		<string>FiraMono-Regular - 13.0</string>
+		<string>JetBrainsMonoNL-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>FiraMono-Regular - 13.0</string>
+		<string>JetBrainsMonoNL-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>FiraMono-Regular - 13.0</string>
+		<string>JetBrainsMonoNL-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>FiraMono-Regular - 13.0</string>
+		<string>JetBrainsMonoNL-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>FiraMono-Regular - 13.0</string>
+		<string>JetBrainsMonoNL-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>FiraMono-Medium - 13.0</string>
+		<string>JetBrainsMonoNL-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>FiraMono-Medium - 13.0</string>
+		<string>JetBrainsMonoNL-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>FiraMono-Regular - 13.0</string>
+		<string>JetBrainsMonoNL-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>FiraMono-Regular - 13.0</string>
+		<string>JetBrainsMonoNL-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>FiraMono-Regular - 13.0</string>
+		<string>JetBrainsMonoNL-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>FiraMono-Regular - 13.0</string>
+		<string>JetBrainsMonoNL-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>FiraMono-Regular - 13.0</string>
+		<string>JetBrainsMonoNL-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>FiraMono-Regular - 13.0</string>
+		<string>JetBrainsMonoNL-Regular - 13.0</string>
 		<key>xcode.syntax.keyword</key>
-		<string>FiraMono-Regular - 13.0</string>
+		<string>JetBrainsMonoNL-Medium - 13.0</string>
 		<key>xcode.syntax.mark</key>
-		<string>FiraMono-Regular - 13.0</string>
+		<string>JetBrainsMonoNL-Bold - 13.0</string>
 		<key>xcode.syntax.markup.code</key>
-		<string>FiraMono-Regular - 13.0</string>
+		<string>JetBrainsMonoNL-Regular - 13.0</string>
 		<key>xcode.syntax.number</key>
-		<string>FiraMono-Regular - 13.0</string>
+		<string>JetBrainsMonoNL-Regular - 13.0</string>
 		<key>xcode.syntax.plain</key>
-		<string>FiraMono-Regular - 13.0</string>
+		<string>JetBrainsMonoNL-Regular - 13.0</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>FiraMono-Regular - 13.0</string>
+		<string>JetBrainsMonoNL-Regular - 13.0</string>
+		<key>xcode.syntax.regex</key>
+		<string>JetBrainsMonoNL-Regular - 13.0</string>
+		<key>xcode.syntax.regex.capturename</key>
+		<string>JetBrainsMonoNL-Regular - 13.0</string>
+		<key>xcode.syntax.regex.charname</key>
+		<string>JetBrainsMonoNL-Regular - 13.0</string>
+		<key>xcode.syntax.regex.number</key>
+		<string>JetBrainsMonoNL-Regular - 13.0</string>
+		<key>xcode.syntax.regex.other</key>
+		<string>JetBrainsMonoNL-Regular - 13.0</string>
 		<key>xcode.syntax.string</key>
-		<string>FiraMono-Regular - 13.0</string>
+		<string>JetBrainsMonoNL-Regular - 13.0</string>
 		<key>xcode.syntax.url</key>
-		<string>FiraMono-Regular - 13.0</string>
+		<string>JetBrainsMonoNL-Regular - 13.0</string>
 	</dict>
 </dict>
 </plist>

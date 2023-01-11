@@ -1,4 +1,4 @@
-## My dotfiles
+## My Gruvbox color themes for terminal and Xcode
 
-- Color theme: `Gruvbox`
-- Font: `Ubuntu Mono Nerd Font`
+- Font: `JetBrains Mono NL`
+- Xcode themes folder: `/Users/ar_ko/Library/Developer/Xcode/UserData`
